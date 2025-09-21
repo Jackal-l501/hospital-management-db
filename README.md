@@ -117,7 +117,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👥 Author
 
-Developed by [Your Name] as a demonstration of advanced database design capabilities.
+Developed by John Omondi Ojango as a demonstration of advanced database design capabilities.
 
 ---
 
